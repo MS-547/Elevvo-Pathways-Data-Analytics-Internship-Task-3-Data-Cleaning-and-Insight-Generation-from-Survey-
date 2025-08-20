@@ -1,0 +1,51 @@
+﻿Age,Gender,Organization Type:,Position/Role,Years of Experience in Banking/IT:,Our organization is currently exploring blockchain-based solutions.,Blockchain is being implemented in at least one area of our banking operations.,Top management supports blockchain adoption initiatives.,We have a dedicated team or project for blockchain integration.,Our organization is aware of the strategic benefits of blockchain.,Blockchain technology improves transaction security in our organization,Blockchain ensures data integrity and reduces fraud risk.,Our organization sees blockchain as a key tool to enhance cybersecurity.,Security improvements due to blockchain lead to greater customer trust.,Regulatory uncertainty makes it difficult to adopt blockchain.,High costs of blockchain implementation are a major barrier.,Lack of internal technical expertise slows adoption.,Our legacy systems are not compatible with blockchain technology.,Data privacy and compliance concerns hinder adoption.,Blockchain has improved transaction speed and efficiency.,Blockchain adoption has reduced operational costs.,. We have seen improved transparency in financial reporting due to blockchain.,Blockchain adoption has enhanced our competitive advantage.,Customer trust has increased with blockchain-related services.
+under 25,Male,Commercial Bank,Cashier,Less than 2 years,1,2,2,2,1,3,4,3,3,3,3,3,2,3,2,2,2,2,2
+under 25,Male,Central Bank,Manager,Less than 2 years,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+under 25,Male,Commercial Bank,Accountant,Less than 2 years,2,2,1,2,4,2,3,4,4,3,5,4,2,2,4,2,4,4,4
+under 25,Male,Commercial Bank,manager,Less than 2 years,3,4,4,5,4,4,4,4,4,4,1,4,1,1,4,2,4,3,4
+35 - 44,Female,,As a admin,Less than 2 years,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+under 25,Female,Commercial Bank,Cashier,Less than 2 years,5,5,5,5,5,5,5,5,5,3,5,3,4,4,4,4,5,5,5
+under 25,Male,Commercial Bank,Cashier,Less than 2 years,4,3,3,5,4,5,4,2,4,3,2,4,3,5,3,2,4,4,5
+under 25,Female,Digital Bank,PBO,Less than 2 years,1,2,3,2,5,4,5,3,3,2,4,2,3,5,4,5,2,2,3
+under 25,Male,Commercial Bank,Student,Less than 2 years,4,5,5,4,5,4,4,5,4,3,5,4,4,5,3,3,5,5,5
+under 25,Female,Digital Bank,manager,Less than 2 years,4,3,3,4,4,3,4,3,5,3,3,3,3,3,4,4,4,4,3
+under 25,Male,Digital Bank,Manager,2–5 years,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+under 25,Male,Digital Bank,CEO,More than 10 years,5,1,5,1,5,1,5,1,5,1,1,5,5,5,5,5,1,1,5
+24 - 34,Female,Fintech Company,Manager,Less than 2 years,4,4,5,3,2,4,3,5,3,5,4,3,4,4,4,2,4,2,2
+under 25,Female,Digital Bank,student,Less than 2 years,3,3,3,4,4,4,3,4,3,3,4,4,4,3,3,4,4,3,4
+under 25,Female,Commercial Bank,PBO,Less than 2 years,4,5,3,5,5,5,5,5,4,4,4,4,5,5,4,3,4,3,5
+35 - 44,Male,Central Bank,Manager,More than 10 years,4,5,5,5,5,1,1,1,1,5,5,5,5,5,2,4,2,4,2
+under 25,Prefer not to say,Digital Bank,PBO,Less than 2 years,3,3,3,3,3,4,4,4,4,3,3,3,4,3,2,3,3,4,5
+24 - 34,Female,Digital Bank,Manager,2–5 years,1,2,3,1,1,2,3,2,3,1,1,1,3,1,2,2,2,1,2
+under 25,Male,Commercial Bank,Manager,Less than 2 years,3,3,2,4,5,1,5,2,4,4,2,3,5,5,1,3,3,4,2
+under 25,Male,Digital Bank,Student,Less than 2 years,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+24 - 34,Male,educational,student,Less than 2 years,4,4,4,4,4,5,5,5,3,1,1,4,5,5,5,5,5,5,2
+under 25,Female,Commercial Bank,Manager,2–5 years,4,5,4,4,4,4,4,4,5,4,5,5,3,4,5,5,4,4,3
+55 +,Prefer not to say,Commercial Bank,CEO,More than 10 years,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+under 25,Male,University,Student,Less than 2 years,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+under 25,Male,Digital Bank,Data Scientist,Less than 2 years,4,4,4,4,5,4,5,5,5,4,4,4,4,4,5,5,5,5,5
+under 25,Male,Fintech Company,Analyst,More than 10 years,4,3,4,5,3,2,1,2,4,4,3,2,3,1,3,1,5,5,2
+24 - 34,Female,,Nothing,Less than 2 years,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+24 - 34,Male,Fintech Company,marketing,Less than 2 years,4,4,3,2,4,2,3,3,4,4,4,2,4,4,2,4,4,5,4
+35 - 44,Male,Digital Bank,Boss,2–5 years,3,2,4,4,3,2,2,3,3,3,1,3,4,4,2,4,3,4,3
+24 - 34,Male,Commercial Bank,Manager,2–5 years,3,2,2,4,3,2,5,2,4,5,4,5,4,3,3,3,2,5,3
+under 25,Female,Central Bank,Manager,2–5 years,3,2,1,2,2,1,2,2,2,2,3,2,1,1,2,3,1,1,4
+under 25,Male,Digital Bank,Junior assistant,Less than 2 years,4,4,4,5,5,4,4,4,3,2,4,5,5,3,4,3,5,3,3
+under 25,Female,Commercial Bank,User,Less than 2 years,2,3,2,3,3,2,2,2,3,4,4,4,4,4,3,3,3,3,3
+under 25,Female,Digital Bank,None,Less than 2 years,3,3,3,3,3,1,3,2,2,2,3,3,3,3,3,2,5,2,1
+under 25,Female,Central Bank,Manager,More than 10 years,1,3,1,5,3,1,1,2,2,3,3,2,3,1,5,5,3,1,1
+under 25,Female,Digital Bank,Manager,Less than 2 years,2,3,4,4,2,1,5,4,3,1,3,3,4,4,1,4,2,4,5
+under 25,Female,Digital Bank,Cashier,Less than 2 years,2,1,2,3,3,3,1,2,1,2,2,2,2,2,1,2,2,1,2
+under 25,Male,Commercial Bank,Manager,Less than 2 years,1,1,1,1,1,5,1,1,1,1,1,1,1,1,2,3,1,1,4
+under 25,Female,Digital Bank,MANAGER,Less than 2 years,1,1,2,2,5,1,1,1,1,1,1,1,1,1,1,2,3,4,5
+24 - 34,Male,Digital Bank,Nill,Less than 2 years,1,2,3,4,5,1,2,3,4,1,2,3,4,5,1,2,3,4,5
+under 25,Male,Commercial Bank,.,Less than 2 years,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+under 25,Female,Digital Bank,Manager,6–10 years,4,4,2,4,5,5,1,5,5,1,5,5,3,3,5,5,5,4,3
+under 25,Male,Fintech Company,,Less than 2 years,3,3,5,1,5,1,4,5,1,2,5,1,5,1,1,5,1,5,1
+under 25,Male,Commercial Bank,General Manager,More than 10 years,2,4,3,2,3,4,3,3,2,3,4,4,4,4,3,3,3,2,2
+under 25,Male,Digital Bank,Employee,Less than 2 years,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+24 - 34,Male,Digital Bank,Manager,More than 10 years,3,2,4,5,1,1,2,3,4,5,4,3,2,1,1,2,3,4,5
+under 25,Male,Commercial Bank,accountant,Less than 2 years,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+under 25,Female,Digital Bank,Manager,Less than 2 years,5,4,4,3,3,4,3,5,4,4,5,4,4,5,4,4,5,5,4
+24 - 34,Female,Commercial Bank,"Director
+",More than 10 years,5,3,4,5,5,3,4,5,5,3,4,5,5,5,3,3,3,5,5
